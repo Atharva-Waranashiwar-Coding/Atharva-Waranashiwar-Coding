@@ -1,45 +1,45 @@
-👋 Hi, I’m @Atharva-Waranashiwar-Coding  
+# Atharva Waranashiwar
 
-🚀 About Me  
-I’m a Software Engineer and graduate student in Information Systems at Northeastern University, with a strong focus on building scalable, real-world software systems. My experience spans full-stack development, backend engineering, and cloud-based architectures, where I enjoy turning complex problems into efficient, production-ready solutions.  
+**Software Engineer | Java · Spring Boot · Python · React · TypeScript**
 
-💡 Interests  
-I’m deeply interested in:  
-- Full-stack web development with modern frameworks  
-- Backend systems, APIs, and distributed architectures  
-- AI-driven applications and intelligent automation  
-- Data engineering and scalable data workflows  
-- Cloud platforms and DevOps practices  
+Dallas (Irving), TX · [atharvawaranashiwar.me](https://atharvawaranashiwar.me) · [LinkedIn](https://www.linkedin.com/in/atharvawaranashiwar) · waranashiwar.a@northeastern.edu
 
-🧠 Currently Exploring  
-I’m currently advancing my skills in:  
-- Data engineering and large-scale data processing  
-- Cloud-native development (AWS, GCP)  
-- System design and production-level architecture  
-- AI integrations and LLM-based applications  
+## About
 
-🤝 Collaboration  
-I’m open to collaborating on projects involving:  
-- AI-powered platforms and automation tools  
-- Scalable SaaS applications  
-- Data-intensive systems and pipelines  
-- Developer tools and workflow optimization products  
+Software Engineer with 3+ years of experience building full-stack products, from production backend services to user-facing web applications. At Persistent Systems I built Spring Boot microservices and REST APIs for high-volume business operations, cutting API response latency by 30% and reducing PostgreSQL query execution times by 25% across tables with millions of records. I hold an MS in Information Systems from Northeastern University (May 2026) and a BE in Electronics and Telecommunication from Savitribai Phule Pune University.
 
-📬 Reach Me  
-- LinkedIn: https://www.linkedin.com/in/atharva-waranashiwar/  
+Currently a Software Engineering Intern at Aboagye Ventures LLC, building full-stack web features and backend functionality, and actively interviewing for Software Engineer roles.
 
-🧩 Experience Snapshot  
-- Built full-stack applications using React, FastAPI, and PostgreSQL  
-- Developed AI-driven features like coaching assistants and workflow automation tools  
-- Worked on performance optimization, improving system efficiency and scalability  
-- Experience with REST APIs, ORM optimization, and cloud deployments  
+## What I Build
 
-⚡ Fun Fact  
-I built a platform called *Recipe Hub* that allows users to discover, share, and organize recipes, combining clean UI with efficient backend design.  
+- Backend services and REST APIs with Java, Spring Boot, Python, and FastAPI
+- Full-stack web applications with React and TypeScript front ends backed by PostgreSQL
+- Application-level AI features: LLM API integrations, retrieval-augmented generation, and tool-calling workflows
+- Data pipelines and internal tools that replace manual operational work
 
----  
-✨ Always exploring, building, and pushing towards impactful
-<!---
-Atharva-Waranashiwar-Coding/Atharva-Waranashiwar-Coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+
+- **Languages:** Java, Python, TypeScript, JavaScript, SQL
+- **Backend:** Spring Boot, FastAPI, Django, REST APIs, Microservices
+- **Frontend:** React, HTML5, CSS3
+- **Data:** PostgreSQL, Redis, ChromaDB, SQLAlchemy
+- **Cloud and DevOps:** AWS (EC2, S3, deployments), Docker, CI/CD, GitHub Actions
+- **Testing:** JUnit, PyTest, unit and integration testing
+- **AI application work:** OpenAI API, Google Gemini, LangChain, RAG pipelines, embeddings, prompt engineering, OpenCV, MediaPipe
+
+## Featured Projects
+
+- [**ChurnOps**](https://github.com/Atharva-Waranashiwar-Coding/churnops-mlops-platform): End-to-end MLOps platform for churn prediction with MLflow experiment tracking, a FastAPI inference API, Airflow retraining orchestration, and Prometheus and Grafana monitoring.
+- [**RAG Chatbot**](https://github.com/Atharva-Waranashiwar-Coding/George-Soros-chatbot-main): Retrieval-augmented chatbot with a document ingestion and retrieval pipeline, Chroma vector search, and a Django REST backend, evaluated against a no-retrieval baseline.
+- [**Prompt Workflow Studio**](https://github.com/Atharva-Waranashiwar-Coding/Prompt_Workflow_Studio): Visual orchestration platform for prompt workflows, with a FastAPI backend, React and TypeScript builder, MCP tool integration, and background execution on Celery and Redis.
+- [**Job Application Tracker**](https://github.com/Atharva-Waranashiwar-Coding/Job_Application_Tracker): Full-stack application built with Spring Boot, AngularJS, and PostgreSQL, with JWT authentication, role-based access control, and Dockerized deployment.
+
+## Experience Snapshot
+
+- **Software Engineering Intern, Aboagye Ventures LLC** (Sep 2026 to present, remote): full-stack web features and backend functionality.
+- **Full-Stack Engineer, 10th Inning Ventures** (Jan 2025 to Aug 2025): React and TypeScript athlete-facing applications, FastAPI services, and OpenAI-powered coaching features. Cut page load times by 20% and reduced manual operational tracking by 70% through SQL-backed data pipelines.
+- **Software Engineer, Persistent Systems** (Aug 2021 to Sep 2023, Pune, India): Spring Boot microservices and REST APIs for enterprise applications, with measurable gains in API latency and database performance.
+
+## Contact
+
+Portfolio: [atharvawaranashiwar.me](https://atharvawaranashiwar.me) · LinkedIn: [linkedin.com/in/atharvawaranashiwar](https://www.linkedin.com/in/atharvawaranashiwar) · Email: waranashiwar.a@northeastern.edu
