@@ -2,7 +2,7 @@
 
 **Software Engineer | Java · Spring Boot · Python · React · TypeScript**
 
-Dallas (Irving), TX · [atharvawaranashiwar.me](https://atharvawaranashiwar.me) · [LinkedIn](https://www.linkedin.com/in/atharvawaranashiwar) · waranashiwar.a@northeastern.edu
+[atharvawaranashiwar.me](https://atharvawaranashiwar.me) · [LinkedIn](https://www.linkedin.com/in/atharvawaranashiwar) · waranashiwar.a@northeastern.edu
 
 ## About
 
